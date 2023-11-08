@@ -16,7 +16,7 @@ Feel free to explore each section for a deeper understanding of the project.
 
 - Programming Languages: Python
 - Data Analysis Libraries: NumPy, pandas, matplotlib, seaborn
-- Machine Learning Libraries: scikit-learn, XGBoost
+- Machine Learning Libraries: scikit-learn
 - Data Visualization: Matplotlib, Seaborn
 - Version Control: Git, GitHub
 - Jupyter Notebooks for data exploration and analysis
